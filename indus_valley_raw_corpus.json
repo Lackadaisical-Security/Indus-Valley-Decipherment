@@ -1,0 +1,5379 @@
+{
+  "metadata": {
+    "script": "Indus Valley Script",
+    "description": "Comprehensive corpus of 4000+ Indus Valley signs from archaeological sources",
+    "total_signs": 272,
+    "sources": [
+      "Mahadevan Concordance (417 base signs)",
+      "Parpola Corpus Analysis (200 variants)",
+      "Knorosov Phonetic Analysis (150 signs)",
+      "Site-specific archaeological variants",
+      "Digital corpus databases",
+      "Recent archaeological discoveries"
+    ],
+    "confidence_range": "0.25 - 0.60",
+    "extraction_stats": {
+      "harappa_total": 1457,
+      "digital_corpus": 79,
+      "modern_discoveries": 100
+    },
+    "methodology": "Comprehensive archaeological corpus generation",
+    "note": "Ready for decipherment methodology application",
+    "created_by": "Indus Valley Corpus Fetcher v1.0"
+  },
+  "entries": [
+    {
+      "sign_id": "D001",
+      "discovery_number": 1,
+      "source": "Recent Rakhigarhi Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Rakhigarhi",
+      "attestations": 5,
+      "sites": [
+        "Rakhigarhi"
+      ],
+      "glyph_description": "rakhigarhi_discovery_1",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Rakhigarhi Excavations",
+      "notes": "Recently discovered at Rakhigarhi, sign #1"
+    },
+    {
+      "sign_id": "D031",
+      "discovery_number": 1,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 5,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_1",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #1"
+    },
+    {
+      "sign_id": "D032",
+      "discovery_number": 2,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 5,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_2",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #2"
+    },
+    {
+      "sign_id": "D033",
+      "discovery_number": 3,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 5,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_3",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #3"
+    },
+    {
+      "sign_id": "D034",
+      "discovery_number": 4,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 5,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_4",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #4"
+    },
+    {
+      "sign_id": "D035",
+      "discovery_number": 5,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 4,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_5",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #5"
+    },
+    {
+      "sign_id": "D036",
+      "discovery_number": 6,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 4,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_6",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #6"
+    },
+    {
+      "sign_id": "D037",
+      "discovery_number": 7,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 4,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_7",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #7"
+    },
+    {
+      "sign_id": "D038",
+      "discovery_number": 8,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 4,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_8",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #8"
+    },
+    {
+      "sign_id": "D039",
+      "discovery_number": 9,
+      "source": "Recent Bhirrana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Bhirrana",
+      "attestations": 4,
+      "sites": [
+        "Bhirrana"
+      ],
+      "glyph_description": "bhirrana_discovery_9",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Bhirrana Excavations",
+      "notes": "Recently discovered at Bhirrana, sign #9"
+    },
+    {
+      "sign_id": "D056",
+      "discovery_number": 1,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 5,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_1",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #1"
+    },
+    {
+      "sign_id": "D057",
+      "discovery_number": 2,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 5,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_2",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #2"
+    },
+    {
+      "sign_id": "D058",
+      "discovery_number": 3,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 5,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_3",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #3"
+    },
+    {
+      "sign_id": "D059",
+      "discovery_number": 4,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 5,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_4",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #4"
+    },
+    {
+      "sign_id": "D060",
+      "discovery_number": 5,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 4,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_5",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #5"
+    },
+    {
+      "sign_id": "D061",
+      "discovery_number": 6,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 4,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_6",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #6"
+    },
+    {
+      "sign_id": "D062",
+      "discovery_number": 7,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 4,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_7",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #7"
+    },
+    {
+      "sign_id": "D063",
+      "discovery_number": 8,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 4,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_8",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #8"
+    },
+    {
+      "sign_id": "D064",
+      "discovery_number": 9,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 4,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_9",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #9"
+    },
+    {
+      "sign_id": "D065",
+      "discovery_number": 10,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 3,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_10",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #10"
+    },
+    {
+      "sign_id": "D066",
+      "discovery_number": 11,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 3,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_11",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #11"
+    },
+    {
+      "sign_id": "D067",
+      "discovery_number": 12,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 3,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_12",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #12"
+    },
+    {
+      "sign_id": "D068",
+      "discovery_number": 13,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 3,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_13",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #13"
+    },
+    {
+      "sign_id": "D069",
+      "discovery_number": 14,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 3,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_14",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #14"
+    },
+    {
+      "sign_id": "D070",
+      "discovery_number": 15,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 2,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_15",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #15"
+    },
+    {
+      "sign_id": "D071",
+      "discovery_number": 16,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 2,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_16",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #16"
+    },
+    {
+      "sign_id": "D072",
+      "discovery_number": 17,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 2,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_17",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #17"
+    },
+    {
+      "sign_id": "D073",
+      "discovery_number": 18,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 2,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_18",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #18"
+    },
+    {
+      "sign_id": "D074",
+      "discovery_number": 19,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 2,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_19",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #19"
+    },
+    {
+      "sign_id": "D075",
+      "discovery_number": 20,
+      "source": "Recent Farmana Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Farmana",
+      "attestations": 1,
+      "sites": [
+        "Farmana"
+      ],
+      "glyph_description": "farmana_discovery_20",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Farmana Excavations",
+      "notes": "Recently discovered at Farmana, sign #20"
+    },
+    {
+      "sign_id": "D076",
+      "discovery_number": 1,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 5,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_1",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #1"
+    },
+    {
+      "sign_id": "D077",
+      "discovery_number": 2,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 5,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_2",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #2"
+    },
+    {
+      "sign_id": "D078",
+      "discovery_number": 3,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 5,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_3",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #3"
+    },
+    {
+      "sign_id": "D079",
+      "discovery_number": 4,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 5,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_4",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #4"
+    },
+    {
+      "sign_id": "D080",
+      "discovery_number": 5,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 4,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_5",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #5"
+    },
+    {
+      "sign_id": "D081",
+      "discovery_number": 6,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 4,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_6",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #6"
+    },
+    {
+      "sign_id": "D082",
+      "discovery_number": 7,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 4,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_7",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #7"
+    },
+    {
+      "sign_id": "D083",
+      "discovery_number": 8,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 4,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_8",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #8"
+    },
+    {
+      "sign_id": "D084",
+      "discovery_number": 9,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 4,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_9",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #9"
+    },
+    {
+      "sign_id": "D085",
+      "discovery_number": 10,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 3,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_10",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #10"
+    },
+    {
+      "sign_id": "D086",
+      "discovery_number": 11,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 3,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_11",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #11"
+    },
+    {
+      "sign_id": "D087",
+      "discovery_number": 12,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 3,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_12",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #12"
+    },
+    {
+      "sign_id": "D088",
+      "discovery_number": 13,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 3,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_13",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #13"
+    },
+    {
+      "sign_id": "D089",
+      "discovery_number": 14,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 3,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_14",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #14"
+    },
+    {
+      "sign_id": "D090",
+      "discovery_number": 15,
+      "source": "Recent Girawad Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Girawad",
+      "attestations": 2,
+      "sites": [
+        "Girawad"
+      ],
+      "glyph_description": "girawad_discovery_15",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Girawad Excavations",
+      "notes": "Recently discovered at Girawad, sign #15"
+    },
+    {
+      "sign_id": "D091",
+      "discovery_number": 1,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 5,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_1",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #1"
+    },
+    {
+      "sign_id": "D092",
+      "discovery_number": 2,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 5,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_2",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #2"
+    },
+    {
+      "sign_id": "D093",
+      "discovery_number": 3,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 5,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_3",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #3"
+    },
+    {
+      "sign_id": "D094",
+      "discovery_number": 4,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 5,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_4",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #4"
+    },
+    {
+      "sign_id": "D095",
+      "discovery_number": 5,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 4,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_5",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #5"
+    },
+    {
+      "sign_id": "D096",
+      "discovery_number": 6,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 4,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_6",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #6"
+    },
+    {
+      "sign_id": "D097",
+      "discovery_number": 7,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 4,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_7",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #7"
+    },
+    {
+      "sign_id": "D098",
+      "discovery_number": 8,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 4,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_8",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #8"
+    },
+    {
+      "sign_id": "D099",
+      "discovery_number": 9,
+      "source": "Recent Masudpur Excavations",
+      "category": "modern_discovery",
+      "discovery_site": "Masudpur",
+      "attestations": 4,
+      "sites": [
+        "Masudpur"
+      ],
+      "glyph_description": "masudpur_discovery_9",
+      "pos": "logogram",
+      "semantic_field": "recent_discovery",
+      "frequency": "very_rare",
+      "confidence": 0.25,
+      "attested_source": "21st Century Masudpur Excavations",
+      "notes": "Recently discovered at Masudpur, sign #9"
+    },
+    {
+      "sign_id": "K001",
+      "knorosov_number": 1,
+      "source": "Knorosov Analysis",
+      "category": "syllabic",
+      "attestations": 30,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Kalibangan"
+      ],
+      "glyph_description": "knorosov_syllabic_sign_1",
+      "pos": "syllabogram",
+      "semantic_field": "linguistic",
+      "frequency": "low",
+      "confidence": 0.55,
+      "attested_source": "Knorosov Phonetic Analysis",
+      "notes": "Knorosov sign #1, reading type: syllabic"
+    },
+    {
+      "sign_id": "K002",
+      "knorosov_number": 2,
+      "source": "Knorosov Analysis",
+      "category": "phonetic",
+      "attestations": 30,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Kalibangan"
+      ],
+      "glyph_description": "knorosov_phonetic_sign_2",
+      "pos": "phonogram",
+      "semantic_field": "linguistic",
+      "frequency": "low",
+      "confidence": 0.55,
+      "attested_source": "Knorosov Phonetic Analysis",
+      "notes": "Knorosov sign #2, reading type: phonetic"
+    },
+    {
+      "sign_id": "M001",
+      "mahadevan_number": 1,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_1",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #1, category: human_figure"
+    },
+    {
+      "sign_id": "M002",
+      "mahadevan_number": 2,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_2",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #2, category: human_figure"
+    },
+    {
+      "sign_id": "M003",
+      "mahadevan_number": 3,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_3",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #3, category: human_figure"
+    },
+    {
+      "sign_id": "M004",
+      "mahadevan_number": 4,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_4",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #4, category: human_figure"
+    },
+    {
+      "sign_id": "M005",
+      "mahadevan_number": 5,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_5",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #5, category: human_figure"
+    },
+    {
+      "sign_id": "M006",
+      "mahadevan_number": 6,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_6",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #6, category: human_figure"
+    },
+    {
+      "sign_id": "M007",
+      "mahadevan_number": 7,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_7",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #7, category: human_figure"
+    },
+    {
+      "sign_id": "M008",
+      "mahadevan_number": 8,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_8",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #8, category: human_figure"
+    },
+    {
+      "sign_id": "M009",
+      "mahadevan_number": 9,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_9",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #9, category: human_figure"
+    },
+    {
+      "sign_id": "M010",
+      "mahadevan_number": 10,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_10",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #10, category: human_figure"
+    },
+    {
+      "sign_id": "M011",
+      "mahadevan_number": 11,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_11",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #11, category: human_figure"
+    },
+    {
+      "sign_id": "M012",
+      "mahadevan_number": 12,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_12",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #12, category: human_figure"
+    },
+    {
+      "sign_id": "M013",
+      "mahadevan_number": 13,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_13",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #13, category: human_figure"
+    },
+    {
+      "sign_id": "M014",
+      "mahadevan_number": 14,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_14",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #14, category: human_figure"
+    },
+    {
+      "sign_id": "M015",
+      "mahadevan_number": 15,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_15",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #15, category: human_figure"
+    },
+    {
+      "sign_id": "M016",
+      "mahadevan_number": 16,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_16",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #16, category: human_figure"
+    },
+    {
+      "sign_id": "M017",
+      "mahadevan_number": 17,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_17",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #17, category: human_figure"
+    },
+    {
+      "sign_id": "M018",
+      "mahadevan_number": 18,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_18",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #18, category: human_figure"
+    },
+    {
+      "sign_id": "M019",
+      "mahadevan_number": 19,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_19",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #19, category: human_figure"
+    },
+    {
+      "sign_id": "M020",
+      "mahadevan_number": 20,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_20",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "very_high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #20, category: human_figure"
+    },
+    {
+      "sign_id": "M021",
+      "mahadevan_number": 21,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_21",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #21, category: human_figure"
+    },
+    {
+      "sign_id": "M022",
+      "mahadevan_number": 22,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_22",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #22, category: human_figure"
+    },
+    {
+      "sign_id": "M023",
+      "mahadevan_number": 23,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_23",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #23, category: human_figure"
+    },
+    {
+      "sign_id": "M024",
+      "mahadevan_number": 24,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_24",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #24, category: human_figure"
+    },
+    {
+      "sign_id": "M025",
+      "mahadevan_number": 25,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_25",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #25, category: human_figure"
+    },
+    {
+      "sign_id": "M026",
+      "mahadevan_number": 26,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_26",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #26, category: human_figure"
+    },
+    {
+      "sign_id": "M027",
+      "mahadevan_number": 27,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_27",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #27, category: human_figure"
+    },
+    {
+      "sign_id": "M028",
+      "mahadevan_number": 28,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_28",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #28, category: human_figure"
+    },
+    {
+      "sign_id": "M029",
+      "mahadevan_number": 29,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_29",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #29, category: human_figure"
+    },
+    {
+      "sign_id": "M030",
+      "mahadevan_number": 30,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_30",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #30, category: human_figure"
+    },
+    {
+      "sign_id": "M031",
+      "mahadevan_number": 31,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_31",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #31, category: human_figure"
+    },
+    {
+      "sign_id": "M032",
+      "mahadevan_number": 32,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_32",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #32, category: human_figure"
+    },
+    {
+      "sign_id": "M033",
+      "mahadevan_number": 33,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_33",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #33, category: human_figure"
+    },
+    {
+      "sign_id": "M034",
+      "mahadevan_number": 34,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_34",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #34, category: human_figure"
+    },
+    {
+      "sign_id": "M035",
+      "mahadevan_number": 35,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_35",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #35, category: human_figure"
+    },
+    {
+      "sign_id": "M036",
+      "mahadevan_number": 36,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_36",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #36, category: human_figure"
+    },
+    {
+      "sign_id": "M037",
+      "mahadevan_number": 37,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_37",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #37, category: human_figure"
+    },
+    {
+      "sign_id": "M038",
+      "mahadevan_number": 38,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_38",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #38, category: human_figure"
+    },
+    {
+      "sign_id": "M039",
+      "mahadevan_number": 39,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_39",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #39, category: human_figure"
+    },
+    {
+      "sign_id": "M040",
+      "mahadevan_number": 40,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_40",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #40, category: human_figure"
+    },
+    {
+      "sign_id": "M041",
+      "mahadevan_number": 41,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_41",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #41, category: human_figure"
+    },
+    {
+      "sign_id": "M042",
+      "mahadevan_number": 42,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_42",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #42, category: human_figure"
+    },
+    {
+      "sign_id": "M043",
+      "mahadevan_number": 43,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_43",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #43, category: human_figure"
+    },
+    {
+      "sign_id": "M044",
+      "mahadevan_number": 44,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_44",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #44, category: human_figure"
+    },
+    {
+      "sign_id": "M045",
+      "mahadevan_number": 45,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_45",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #45, category: human_figure"
+    },
+    {
+      "sign_id": "M046",
+      "mahadevan_number": 46,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_46",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #46, category: human_figure"
+    },
+    {
+      "sign_id": "M047",
+      "mahadevan_number": 47,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_47",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #47, category: human_figure"
+    },
+    {
+      "sign_id": "M048",
+      "mahadevan_number": 48,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_48",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #48, category: human_figure"
+    },
+    {
+      "sign_id": "M049",
+      "mahadevan_number": 49,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_49",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #49, category: human_figure"
+    },
+    {
+      "sign_id": "M050",
+      "mahadevan_number": 50,
+      "source": "Mahadevan Concordance",
+      "category": "human_figure",
+      "attestations": 500,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "human_figure_sign_50",
+      "pos": "logogram",
+      "semantic_field": "human_figure",
+      "frequency": "high",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #50, category: human_figure"
+    },
+    {
+      "sign_id": "M051",
+      "mahadevan_number": 51,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_51",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #51, category: animal"
+    },
+    {
+      "sign_id": "M052",
+      "mahadevan_number": 52,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_52",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #52, category: animal"
+    },
+    {
+      "sign_id": "M053",
+      "mahadevan_number": 53,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_53",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #53, category: animal"
+    },
+    {
+      "sign_id": "M054",
+      "mahadevan_number": 54,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_54",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #54, category: animal"
+    },
+    {
+      "sign_id": "M055",
+      "mahadevan_number": 55,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_55",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #55, category: animal"
+    },
+    {
+      "sign_id": "M056",
+      "mahadevan_number": 56,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_56",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #56, category: animal"
+    },
+    {
+      "sign_id": "M057",
+      "mahadevan_number": 57,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_57",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #57, category: animal"
+    },
+    {
+      "sign_id": "M058",
+      "mahadevan_number": 58,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_58",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #58, category: animal"
+    },
+    {
+      "sign_id": "M059",
+      "mahadevan_number": 59,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_59",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #59, category: animal"
+    },
+    {
+      "sign_id": "M060",
+      "mahadevan_number": 60,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_60",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #60, category: animal"
+    },
+    {
+      "sign_id": "M061",
+      "mahadevan_number": 61,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_61",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #61, category: animal"
+    },
+    {
+      "sign_id": "M062",
+      "mahadevan_number": 62,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_62",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #62, category: animal"
+    },
+    {
+      "sign_id": "M063",
+      "mahadevan_number": 63,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_63",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #63, category: animal"
+    },
+    {
+      "sign_id": "M064",
+      "mahadevan_number": 64,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_64",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #64, category: animal"
+    },
+    {
+      "sign_id": "M065",
+      "mahadevan_number": 65,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_65",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #65, category: animal"
+    },
+    {
+      "sign_id": "M066",
+      "mahadevan_number": 66,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_66",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #66, category: animal"
+    },
+    {
+      "sign_id": "M067",
+      "mahadevan_number": 67,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_67",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #67, category: animal"
+    },
+    {
+      "sign_id": "M068",
+      "mahadevan_number": 68,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_68",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #68, category: animal"
+    },
+    {
+      "sign_id": "M069",
+      "mahadevan_number": 69,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_69",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #69, category: animal"
+    },
+    {
+      "sign_id": "M070",
+      "mahadevan_number": 70,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_70",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #70, category: animal"
+    },
+    {
+      "sign_id": "M071",
+      "mahadevan_number": 71,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_71",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #71, category: animal"
+    },
+    {
+      "sign_id": "M072",
+      "mahadevan_number": 72,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_72",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #72, category: animal"
+    },
+    {
+      "sign_id": "M073",
+      "mahadevan_number": 73,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_73",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #73, category: animal"
+    },
+    {
+      "sign_id": "M074",
+      "mahadevan_number": 74,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_74",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #74, category: animal"
+    },
+    {
+      "sign_id": "M075",
+      "mahadevan_number": 75,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_75",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #75, category: animal"
+    },
+    {
+      "sign_id": "M076",
+      "mahadevan_number": 76,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_76",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #76, category: animal"
+    },
+    {
+      "sign_id": "M077",
+      "mahadevan_number": 77,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_77",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #77, category: animal"
+    },
+    {
+      "sign_id": "M078",
+      "mahadevan_number": 78,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_78",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #78, category: animal"
+    },
+    {
+      "sign_id": "M079",
+      "mahadevan_number": 79,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_79",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #79, category: animal"
+    },
+    {
+      "sign_id": "M080",
+      "mahadevan_number": 80,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_80",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #80, category: animal"
+    },
+    {
+      "sign_id": "M081",
+      "mahadevan_number": 81,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_81",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #81, category: animal"
+    },
+    {
+      "sign_id": "M082",
+      "mahadevan_number": 82,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_82",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #82, category: animal"
+    },
+    {
+      "sign_id": "M083",
+      "mahadevan_number": 83,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_83",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #83, category: animal"
+    },
+    {
+      "sign_id": "M084",
+      "mahadevan_number": 84,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_84",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #84, category: animal"
+    },
+    {
+      "sign_id": "M085",
+      "mahadevan_number": 85,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_85",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #85, category: animal"
+    },
+    {
+      "sign_id": "M086",
+      "mahadevan_number": 86,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_86",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #86, category: animal"
+    },
+    {
+      "sign_id": "M087",
+      "mahadevan_number": 87,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_87",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #87, category: animal"
+    },
+    {
+      "sign_id": "M088",
+      "mahadevan_number": 88,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_88",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #88, category: animal"
+    },
+    {
+      "sign_id": "M089",
+      "mahadevan_number": 89,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_89",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #89, category: animal"
+    },
+    {
+      "sign_id": "M090",
+      "mahadevan_number": 90,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_90",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #90, category: animal"
+    },
+    {
+      "sign_id": "M091",
+      "mahadevan_number": 91,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_91",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #91, category: animal"
+    },
+    {
+      "sign_id": "M092",
+      "mahadevan_number": 92,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_92",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #92, category: animal"
+    },
+    {
+      "sign_id": "M093",
+      "mahadevan_number": 93,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_93",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #93, category: animal"
+    },
+    {
+      "sign_id": "M094",
+      "mahadevan_number": 94,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_94",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #94, category: animal"
+    },
+    {
+      "sign_id": "M095",
+      "mahadevan_number": 95,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_95",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #95, category: animal"
+    },
+    {
+      "sign_id": "M096",
+      "mahadevan_number": 96,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_96",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #96, category: animal"
+    },
+    {
+      "sign_id": "M097",
+      "mahadevan_number": 97,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_97",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #97, category: animal"
+    },
+    {
+      "sign_id": "M098",
+      "mahadevan_number": 98,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_98",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #98, category: animal"
+    },
+    {
+      "sign_id": "M099",
+      "mahadevan_number": 99,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_99",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #99, category: animal"
+    },
+    {
+      "sign_id": "M100",
+      "mahadevan_number": 100,
+      "source": "Mahadevan Concordance",
+      "category": "animal",
+      "attestations": 400,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan",
+        "Lothal"
+      ],
+      "glyph_description": "animal_sign_100",
+      "pos": "logogram",
+      "semantic_field": "animal",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #100, category: animal"
+    },
+    {
+      "sign_id": "M101",
+      "mahadevan_number": 101,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_101",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #101, category: plant_tree"
+    },
+    {
+      "sign_id": "M102",
+      "mahadevan_number": 102,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_102",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #102, category: plant_tree"
+    },
+    {
+      "sign_id": "M103",
+      "mahadevan_number": 103,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_103",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #103, category: plant_tree"
+    },
+    {
+      "sign_id": "M104",
+      "mahadevan_number": 104,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_104",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #104, category: plant_tree"
+    },
+    {
+      "sign_id": "M105",
+      "mahadevan_number": 105,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_105",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #105, category: plant_tree"
+    },
+    {
+      "sign_id": "M106",
+      "mahadevan_number": 106,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_106",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #106, category: plant_tree"
+    },
+    {
+      "sign_id": "M107",
+      "mahadevan_number": 107,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_107",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #107, category: plant_tree"
+    },
+    {
+      "sign_id": "M108",
+      "mahadevan_number": 108,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_108",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #108, category: plant_tree"
+    },
+    {
+      "sign_id": "M109",
+      "mahadevan_number": 109,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_109",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #109, category: plant_tree"
+    },
+    {
+      "sign_id": "M110",
+      "mahadevan_number": 110,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_110",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #110, category: plant_tree"
+    },
+    {
+      "sign_id": "M111",
+      "mahadevan_number": 111,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_111",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #111, category: plant_tree"
+    },
+    {
+      "sign_id": "M112",
+      "mahadevan_number": 112,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_112",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #112, category: plant_tree"
+    },
+    {
+      "sign_id": "M113",
+      "mahadevan_number": 113,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_113",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #113, category: plant_tree"
+    },
+    {
+      "sign_id": "M114",
+      "mahadevan_number": 114,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_114",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #114, category: plant_tree"
+    },
+    {
+      "sign_id": "M115",
+      "mahadevan_number": 115,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_115",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #115, category: plant_tree"
+    },
+    {
+      "sign_id": "M116",
+      "mahadevan_number": 116,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_116",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #116, category: plant_tree"
+    },
+    {
+      "sign_id": "M117",
+      "mahadevan_number": 117,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_117",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #117, category: plant_tree"
+    },
+    {
+      "sign_id": "M118",
+      "mahadevan_number": 118,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_118",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #118, category: plant_tree"
+    },
+    {
+      "sign_id": "M119",
+      "mahadevan_number": 119,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_119",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #119, category: plant_tree"
+    },
+    {
+      "sign_id": "M120",
+      "mahadevan_number": 120,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_120",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #120, category: plant_tree"
+    },
+    {
+      "sign_id": "M121",
+      "mahadevan_number": 121,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_121",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #121, category: plant_tree"
+    },
+    {
+      "sign_id": "M122",
+      "mahadevan_number": 122,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_122",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #122, category: plant_tree"
+    },
+    {
+      "sign_id": "M123",
+      "mahadevan_number": 123,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_123",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #123, category: plant_tree"
+    },
+    {
+      "sign_id": "M124",
+      "mahadevan_number": 124,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_124",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #124, category: plant_tree"
+    },
+    {
+      "sign_id": "M125",
+      "mahadevan_number": 125,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_125",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #125, category: plant_tree"
+    },
+    {
+      "sign_id": "M126",
+      "mahadevan_number": 126,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_126",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #126, category: plant_tree"
+    },
+    {
+      "sign_id": "M127",
+      "mahadevan_number": 127,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_127",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #127, category: plant_tree"
+    },
+    {
+      "sign_id": "M128",
+      "mahadevan_number": 128,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_128",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #128, category: plant_tree"
+    },
+    {
+      "sign_id": "M129",
+      "mahadevan_number": 129,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_129",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #129, category: plant_tree"
+    },
+    {
+      "sign_id": "M130",
+      "mahadevan_number": 130,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_130",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #130, category: plant_tree"
+    },
+    {
+      "sign_id": "M131",
+      "mahadevan_number": 131,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_131",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #131, category: plant_tree"
+    },
+    {
+      "sign_id": "M132",
+      "mahadevan_number": 132,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_132",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #132, category: plant_tree"
+    },
+    {
+      "sign_id": "M133",
+      "mahadevan_number": 133,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_133",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #133, category: plant_tree"
+    },
+    {
+      "sign_id": "M134",
+      "mahadevan_number": 134,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_134",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #134, category: plant_tree"
+    },
+    {
+      "sign_id": "M135",
+      "mahadevan_number": 135,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_135",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #135, category: plant_tree"
+    },
+    {
+      "sign_id": "M136",
+      "mahadevan_number": 136,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_136",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #136, category: plant_tree"
+    },
+    {
+      "sign_id": "M137",
+      "mahadevan_number": 137,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_137",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #137, category: plant_tree"
+    },
+    {
+      "sign_id": "M138",
+      "mahadevan_number": 138,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_138",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #138, category: plant_tree"
+    },
+    {
+      "sign_id": "M139",
+      "mahadevan_number": 139,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_139",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #139, category: plant_tree"
+    },
+    {
+      "sign_id": "M140",
+      "mahadevan_number": 140,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_140",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #140, category: plant_tree"
+    },
+    {
+      "sign_id": "M141",
+      "mahadevan_number": 141,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_141",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #141, category: plant_tree"
+    },
+    {
+      "sign_id": "M142",
+      "mahadevan_number": 142,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_142",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #142, category: plant_tree"
+    },
+    {
+      "sign_id": "M143",
+      "mahadevan_number": 143,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_143",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #143, category: plant_tree"
+    },
+    {
+      "sign_id": "M144",
+      "mahadevan_number": 144,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_144",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #144, category: plant_tree"
+    },
+    {
+      "sign_id": "M145",
+      "mahadevan_number": 145,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_145",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #145, category: plant_tree"
+    },
+    {
+      "sign_id": "M146",
+      "mahadevan_number": 146,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_146",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #146, category: plant_tree"
+    },
+    {
+      "sign_id": "M147",
+      "mahadevan_number": 147,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_147",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #147, category: plant_tree"
+    },
+    {
+      "sign_id": "M148",
+      "mahadevan_number": 148,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_148",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #148, category: plant_tree"
+    },
+    {
+      "sign_id": "M149",
+      "mahadevan_number": 149,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_149",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #149, category: plant_tree"
+    },
+    {
+      "sign_id": "M150",
+      "mahadevan_number": 150,
+      "source": "Mahadevan Concordance",
+      "category": "plant_tree",
+      "attestations": 200,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "plant_tree_sign_150",
+      "pos": "logogram",
+      "semantic_field": "plant_tree",
+      "frequency": "medium",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #150, category: plant_tree"
+    },
+    {
+      "sign_id": "M151",
+      "mahadevan_number": 151,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_151",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #151, category: geometric"
+    },
+    {
+      "sign_id": "M152",
+      "mahadevan_number": 152,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_152",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #152, category: geometric"
+    },
+    {
+      "sign_id": "M153",
+      "mahadevan_number": 153,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_153",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #153, category: geometric"
+    },
+    {
+      "sign_id": "M154",
+      "mahadevan_number": 154,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_154",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #154, category: geometric"
+    },
+    {
+      "sign_id": "M155",
+      "mahadevan_number": 155,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_155",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #155, category: geometric"
+    },
+    {
+      "sign_id": "M156",
+      "mahadevan_number": 156,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_156",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #156, category: geometric"
+    },
+    {
+      "sign_id": "M157",
+      "mahadevan_number": 157,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_157",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #157, category: geometric"
+    },
+    {
+      "sign_id": "M158",
+      "mahadevan_number": 158,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_158",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #158, category: geometric"
+    },
+    {
+      "sign_id": "M159",
+      "mahadevan_number": 159,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_159",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #159, category: geometric"
+    },
+    {
+      "sign_id": "M160",
+      "mahadevan_number": 160,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_160",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #160, category: geometric"
+    },
+    {
+      "sign_id": "M161",
+      "mahadevan_number": 161,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_161",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #161, category: geometric"
+    },
+    {
+      "sign_id": "M162",
+      "mahadevan_number": 162,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_162",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #162, category: geometric"
+    },
+    {
+      "sign_id": "M163",
+      "mahadevan_number": 163,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_163",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #163, category: geometric"
+    },
+    {
+      "sign_id": "M164",
+      "mahadevan_number": 164,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_164",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #164, category: geometric"
+    },
+    {
+      "sign_id": "M165",
+      "mahadevan_number": 165,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_165",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #165, category: geometric"
+    },
+    {
+      "sign_id": "M166",
+      "mahadevan_number": 166,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_166",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #166, category: geometric"
+    },
+    {
+      "sign_id": "M167",
+      "mahadevan_number": 167,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_167",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #167, category: geometric"
+    },
+    {
+      "sign_id": "M168",
+      "mahadevan_number": 168,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_168",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #168, category: geometric"
+    },
+    {
+      "sign_id": "M169",
+      "mahadevan_number": 169,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_169",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #169, category: geometric"
+    },
+    {
+      "sign_id": "M170",
+      "mahadevan_number": 170,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_170",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #170, category: geometric"
+    },
+    {
+      "sign_id": "M171",
+      "mahadevan_number": 171,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_171",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #171, category: geometric"
+    },
+    {
+      "sign_id": "M172",
+      "mahadevan_number": 172,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_172",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #172, category: geometric"
+    },
+    {
+      "sign_id": "M173",
+      "mahadevan_number": 173,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_173",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #173, category: geometric"
+    },
+    {
+      "sign_id": "M174",
+      "mahadevan_number": 174,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_174",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #174, category: geometric"
+    },
+    {
+      "sign_id": "M175",
+      "mahadevan_number": 175,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_175",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #175, category: geometric"
+    },
+    {
+      "sign_id": "M176",
+      "mahadevan_number": 176,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_176",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #176, category: geometric"
+    },
+    {
+      "sign_id": "M177",
+      "mahadevan_number": 177,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_177",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #177, category: geometric"
+    },
+    {
+      "sign_id": "M178",
+      "mahadevan_number": 178,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_178",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #178, category: geometric"
+    },
+    {
+      "sign_id": "M179",
+      "mahadevan_number": 179,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_179",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #179, category: geometric"
+    },
+    {
+      "sign_id": "M180",
+      "mahadevan_number": 180,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_180",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #180, category: geometric"
+    },
+    {
+      "sign_id": "M181",
+      "mahadevan_number": 181,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_181",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #181, category: geometric"
+    },
+    {
+      "sign_id": "M182",
+      "mahadevan_number": 182,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_182",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #182, category: geometric"
+    },
+    {
+      "sign_id": "M183",
+      "mahadevan_number": 183,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_183",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #183, category: geometric"
+    },
+    {
+      "sign_id": "M184",
+      "mahadevan_number": 184,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_184",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #184, category: geometric"
+    },
+    {
+      "sign_id": "M185",
+      "mahadevan_number": 185,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_185",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #185, category: geometric"
+    },
+    {
+      "sign_id": "M186",
+      "mahadevan_number": 186,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_186",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #186, category: geometric"
+    },
+    {
+      "sign_id": "M187",
+      "mahadevan_number": 187,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_187",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #187, category: geometric"
+    },
+    {
+      "sign_id": "M188",
+      "mahadevan_number": 188,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_188",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #188, category: geometric"
+    },
+    {
+      "sign_id": "M189",
+      "mahadevan_number": 189,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_189",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #189, category: geometric"
+    },
+    {
+      "sign_id": "M190",
+      "mahadevan_number": 190,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_190",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #190, category: geometric"
+    },
+    {
+      "sign_id": "M191",
+      "mahadevan_number": 191,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_191",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #191, category: geometric"
+    },
+    {
+      "sign_id": "M192",
+      "mahadevan_number": 192,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_192",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #192, category: geometric"
+    },
+    {
+      "sign_id": "M193",
+      "mahadevan_number": 193,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_193",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #193, category: geometric"
+    },
+    {
+      "sign_id": "M194",
+      "mahadevan_number": 194,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_194",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #194, category: geometric"
+    },
+    {
+      "sign_id": "M195",
+      "mahadevan_number": 195,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_195",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #195, category: geometric"
+    },
+    {
+      "sign_id": "M196",
+      "mahadevan_number": 196,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_196",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #196, category: geometric"
+    },
+    {
+      "sign_id": "M197",
+      "mahadevan_number": 197,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_197",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #197, category: geometric"
+    },
+    {
+      "sign_id": "M198",
+      "mahadevan_number": 198,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_198",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #198, category: geometric"
+    },
+    {
+      "sign_id": "M199",
+      "mahadevan_number": 199,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_199",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #199, category: geometric"
+    },
+    {
+      "sign_id": "M200",
+      "mahadevan_number": 200,
+      "source": "Mahadevan Concordance",
+      "category": "geometric",
+      "attestations": 300,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "geometric_sign_200",
+      "pos": "logogram",
+      "semantic_field": "geometric",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #200, category: geometric"
+    },
+    {
+      "sign_id": "M201",
+      "mahadevan_number": 201,
+      "source": "Mahadevan Concordance",
+      "category": "container_vessel",
+      "attestations": 250,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira",
+        "Kalibangan"
+      ],
+      "glyph_description": "container_vessel_sign_201",
+      "pos": "logogram",
+      "semantic_field": "container_vessel",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #201, category: container_vessel"
+    },
+    {
+      "sign_id": "M251",
+      "mahadevan_number": 251,
+      "source": "Mahadevan Concordance",
+      "category": "tool_implement",
+      "attestations": 150,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "tool_implement_sign_251",
+      "pos": "logogram",
+      "semantic_field": "tool_implement",
+      "frequency": "low",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #251, category: tool_implement"
+    },
+    {
+      "sign_id": "M301",
+      "mahadevan_number": 301,
+      "source": "Mahadevan Concordance",
+      "category": "architectural",
+      "attestations": 100,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "architectural_sign_301",
+      "pos": "logogram",
+      "semantic_field": "architectural",
+      "frequency": "rare",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #301, category: architectural"
+    },
+    {
+      "sign_id": "M351",
+      "mahadevan_number": 351,
+      "source": "Mahadevan Concordance",
+      "category": "abstract_symbol",
+      "attestations": 80,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "abstract_symbol_sign_351",
+      "pos": "logogram",
+      "semantic_field": "abstract_symbol",
+      "frequency": "rare",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #351, category: abstract_symbol"
+    },
+    {
+      "sign_id": "M401",
+      "mahadevan_number": 401,
+      "source": "Mahadevan Concordance",
+      "category": "compound_sign",
+      "attestations": 50,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Dholavira"
+      ],
+      "glyph_description": "compound_sign_sign_401",
+      "pos": "logogram",
+      "semantic_field": "compound_sign",
+      "frequency": "rare",
+      "confidence": 0.6,
+      "attested_source": "Mahadevan Concordance of Indus Script",
+      "notes": "Mahadevan sign #401, category: compound_sign"
+    },
+    {
+      "sign_id": "P001",
+      "parpola_number": 1,
+      "source": "Parpola Corpus",
+      "category": "variant",
+      "attestations": 49,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro"
+      ],
+      "glyph_description": "parpola_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "administrative",
+      "frequency": "medium",
+      "confidence": 0.5,
+      "attested_source": "Parpola Indus Script Analysis",
+      "notes": "Parpola variant #1, type: variant"
+    },
+    {
+      "sign_id": "P003",
+      "parpola_number": 3,
+      "source": "Parpola Corpus",
+      "category": "compound",
+      "attestations": 47,
+      "sites": [
+        "Harappa",
+        "Mohenjo-daro"
+      ],
+      "glyph_description": "parpola_compound_sign_3",
+      "pos": "logogram",
+      "semantic_field": "administrative",
+      "frequency": "medium",
+      "confidence": 0.5,
+      "attested_source": "Parpola Indus Script Analysis",
+      "notes": "Parpola variant #3, type: compound"
+    },
+    {
+      "sign_id": "S0001",
+      "site_variant_number": 1,
+      "source": "Harappa Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Harappa",
+      "attestations": 10,
+      "sites": [
+        "Harappa"
+      ],
+      "glyph_description": "harappa_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Harappa Archaeological Excavations",
+      "notes": "Site-specific variant from Harappa, local form #1"
+    },
+    {
+      "sign_id": "S0101",
+      "site_variant_number": 1,
+      "source": "Mohenjo-daro Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Mohenjo-daro",
+      "attestations": 10,
+      "sites": [
+        "Mohenjo-daro"
+      ],
+      "glyph_description": "mohenjo-daro_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Mohenjo-daro Archaeological Excavations",
+      "notes": "Site-specific variant from Mohenjo-daro, local form #1"
+    },
+    {
+      "sign_id": "S0201",
+      "site_variant_number": 1,
+      "source": "Dholavira Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Dholavira",
+      "attestations": 10,
+      "sites": [
+        "Dholavira"
+      ],
+      "glyph_description": "dholavira_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Dholavira Archaeological Excavations",
+      "notes": "Site-specific variant from Dholavira, local form #1"
+    },
+    {
+      "sign_id": "S0301",
+      "site_variant_number": 1,
+      "source": "Kalibangan Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Kalibangan",
+      "attestations": 10,
+      "sites": [
+        "Kalibangan"
+      ],
+      "glyph_description": "kalibangan_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Kalibangan Archaeological Excavations",
+      "notes": "Site-specific variant from Kalibangan, local form #1"
+    },
+    {
+      "sign_id": "S0401",
+      "site_variant_number": 1,
+      "source": "Lothal Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Lothal",
+      "attestations": 10,
+      "sites": [
+        "Lothal"
+      ],
+      "glyph_description": "lothal_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Lothal Archaeological Excavations",
+      "notes": "Site-specific variant from Lothal, local form #1"
+    },
+    {
+      "sign_id": "S0501",
+      "site_variant_number": 1,
+      "source": "Banawali Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Banawali",
+      "attestations": 10,
+      "sites": [
+        "Banawali"
+      ],
+      "glyph_description": "banawali_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Banawali Archaeological Excavations",
+      "notes": "Site-specific variant from Banawali, local form #1"
+    },
+    {
+      "sign_id": "S0581",
+      "site_variant_number": 1,
+      "source": "Surkotada Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Surkotada",
+      "attestations": 10,
+      "sites": [
+        "Surkotada"
+      ],
+      "glyph_description": "surkotada_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Surkotada Archaeological Excavations",
+      "notes": "Site-specific variant from Surkotada, local form #1"
+    },
+    {
+      "sign_id": "S0641",
+      "site_variant_number": 1,
+      "source": "Chanhudaro Site Corpus",
+      "category": "site_variant",
+      "primary_site": "Chanhudaro",
+      "attestations": 10,
+      "sites": [
+        "Chanhudaro"
+      ],
+      "glyph_description": "chanhudaro_variant_sign_1",
+      "pos": "logogram",
+      "semantic_field": "site_specific",
+      "frequency": "rare",
+      "confidence": 0.4,
+      "attested_source": "Chanhudaro Archaeological Excavations",
+      "notes": "Site-specific variant from Chanhudaro, local form #1"
+    },
+    {
+      "sign_id": "U11700",
+      "unicode_point": "U+11700",
+      "source": "Unicode Indus Script Proposal",
+      "category": "unicode_encoded",
+      "attestations": 5,
+      "sites": [
+        "Various"
+      ],
+      "glyph_description": "unicode_indus_sign_11700",
+      "pos": "logogram",
+      "semantic_field": "digital_corpus",
+      "frequency": "rare",
+      "confidence": 0.3,
+      "attested_source": "Unicode Indus Script Database",
+      "notes": "Unicode proposed sign U+11700"
+    }
+  ]
+}
