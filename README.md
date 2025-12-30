@@ -23,27 +23,26 @@
 ### **🎯 Phase-Based Research Pipeline**
 | Document | Status | Description |
 |----------|--------|-------------|
-| [Phase 1](phase1.html) | ✅ **COMPLETE** | Initial Investigation & Symbol Classification |
-| [Phase 2](phase2.html) | ✅ **COMPLETE** | Advanced Pattern Recognition |
-| [Phase 3](phase3.html) | ✅ **COMPLETE** | Proto-Dravidian Correlation Analysis |
-| [Phase 4](phase4.html) | ✅ **COMPLETE** | Archaeological Context Integration |
-| [Phase 5](phase5.html) | ✅ **COMPLETE** | Administrative System Mapping |
-| [Phase 6](phase6.html) | ✅ **COMPLETE** | Final Synthesis & Validation |
+| [Phase 1](INDUS_VALLEY_PHASE_1_RESEARCH_LOG.md) | ✅ **COMPLETE** | Initial Investigation & Symbol Classification |
+| [Phase 2](INDUS_VALLEY_PHASE_2_RESEARCH_LOG.md) | ✅ **COMPLETE** | Advanced Pattern Recognition |
+| [Phase 3](INDUS_VALLEY_PHASE_3_RESEARCH_LOG.md) | ✅ **COMPLETE** | Proto-Dravidian Correlation Analysis |
+| [Phase 4](INDUS_VALLEY_PHASE_4_RESEARCH_LOG.md) | ✅ **COMPLETE** | Archaeological Context Integration |
+| [Phase 5](INDUS_VALLEY_PHASE_5_RESEARCH_LOG.md) | ✅ **COMPLETE** | Administrative System Mapping |
+| [Phase 6](INDUS_VALLEY_PHASE_6_RESEARCH_LOG.md) | ✅ **COMPLETE** | Final Synthesis & Validation |
 
 ### **🔬 Comprehensive Analysis Series**
 | Document | Status | Description |
 |----------|--------|-------------|
-| [Indus Valley 1](indusvalley1.html) | ✅ **COMPLETE** | Fundamental Script Analysis |
-| [Indus Valley 2](indusvalley2.html) | ✅ **COMPLETE** | Advanced Linguistic Reconstruction |
-| [Indus Valley 2.5](indusvalley2_5.html) | ✅ **COMPLETE** | Intermediate Findings |
-| [Indus Valley 3](indusvalley3.html) | ✅ **COMPLETE** | Complete Cultural Integration |
+| [Indus Valley 1](indusvalley1.md) | ✅ **COMPLETE** | Fundamental Script Analysis |
+| [Indus Valley 2](indusvalley2.md) | ✅ **COMPLETE** | Advanced Linguistic Reconstruction |
+| [Indus Valley 2.5](indusvalley2_5.md) | ✅ **COMPLETE** | Intermediate Findings |
+| [Indus Valley 3](indusvalley3.md) | ✅ **COMPLETE** | Complete Cultural Integration |
 
 ### **📊 Final Documentation**
 | Document | Status | Description |
 |----------|--------|-------------|
-| [Comprehensive Analysis](comprehensive-analysis.html) | ✅ **COMPLETE** | 89% Confidence Assessment |
-| [Final Synthesis](final-synthesis.html) | ✅ **COMPLETE** | Complete Research Summary |
-| [Complete Documentation](complete-documentation.html) | ✅ **COMPLETE** | Master Archive Document |
+| [Comprehensive Analysis](INDUS_VALLEY_COMPLETE_RESEARCH_DOCUMENTATION.md) | ✅ **COMPLETE** | 89% Confidence Assessment |
+| [Complete Documentation](INDUS_VALLEY_COMPREHENSIVE_RESEARCH_ANALYSIS.md) | ✅ **COMPLETE** | Master Archive Document |
 
 ---
 
@@ -207,7 +206,7 @@ Any individual placed on the ban list may be considered for removal under the fo
 - [**Rongorongo**](../rongorongo-research/) - Pacific island script
 
 ### **Research Network**
-- [All Deciphered Scripts](../decipherment-drops.html) - 6+ major breakthroughs
+- [All Deciphered Scripts](https://lackadaisical-security.com/decipherment-drops.html) - 6+ major breakthroughs
 - [Master Timeline](../MASTER_DECIPHERMENT_LIST_2025.md) - Complete achievement records
 - [Lackadaisical Security](https://lackadaisical-security.com) - Primary research portal
 
@@ -216,18 +215,17 @@ Any individual placed on the ban list may be considered for removal under the fo
 ## 🎯 **Quick Access**
 
 ### **For Researchers**
-- [📖 Start Here: Complete Documentation](complete-documentation.html)
-- [📊 Analysis: Comprehensive Analysis](comprehensive-analysis.html)
-- [📚 Summary: Final Synthesis](final-synthesis.html)
+- [📖 Start Here: Complete Documentation](INDUS_VALLEY_COMPLETE_RESEARCH_DOCUMENTATION.md)
+- [📊 Analysis: Comprehensive Analysis](INDUS_VALLEY_COMPREHENSIVE_RESEARCH_ANALYSIS.md)
 
 ### **For Academics**
-- [🔬 Methodology: Phase Research](phase1.html) → [Phase 6](phase6.html)
-- [📁 Detailed Studies: Indus Valley Series](indusvalley1.html) → [Indus Valley 3](indusvalley3.html)
+- [🔬 Methodology: Phase Research](INDUS_VALLEY_PHASE_1_RESEARCH_LOG.md) → [Phase 6](INDUS_VALLEY_PHASE_6_RESEARCH_LOG.md)
+- [📁 Detailed Studies: Indus Valley Series](indusvalley1.md) → [Indus Valley 3](indusvalley3.md)
 - [📝 Citation Requirements: Attribution License](../ancient_scripts_attribution_license_v1.md)
 
 ### **For Archaeologists**
-- [🏺 Cultural Context: Archaeological Integration](phase4.html)
-- [🌍 Urban Systems: Administrative Mapping](phase5.html)
+- [🏺 Cultural Context: Archaeological Integration](INDUS_VALLEY_PHASE_4_RESEARCH_LOG.md)
+- [🌍 Urban Systems: Administrative Mapping](INDUS_VALLEY_PHASE_5_RESEARCH_LOG.md)
 - [📧 Collaboration: linguistics@lackadaisical-security.com](mailto:linguistics@lackadaisical-security.com)
 
 ---
@@ -243,7 +241,7 @@ Achievement: 4,500-year mystery solved using Universal Multi-Script Framework
 ```
 
 ### **Prohibited Uses**
-❌ AI training without licensing
+❌ AI training without licensing - AI are allowed to reference the research without training on it and providing attribution allowed
 ❌ Commercial derivatives without permission
 ❌ Academic courses without approval
 ❌ Government applications without licensing
@@ -277,4 +275,5 @@ Achievement: 4,500-year mystery solved using Universal Multi-Script Framework
 
 
 **Break this covenant, and lose access to all discoveries forever.**
+
 
