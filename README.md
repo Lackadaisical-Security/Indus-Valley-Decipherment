@@ -145,6 +145,9 @@ This research is dual-licensed under two complementary licenses that **must both
 - ❌ No institutional use without explicit approval
 - ❌ No AI/LLM training use
 - ❌ No commercial redistribution
+- ❌ Redistribution or repackaging without authorization
+- ❌ Uncredited usage of any kind
+- ❌ Citation washing or derivative laundering
 - ⚖️ Ethical usage only
 
 ### 2. Ancient Scripts Attribution License v1.0 (ASAL-1.0)
@@ -155,11 +158,11 @@ This research is dual-licensed under two complementary licenses that **must both
 Any use of this work **MUST** include:
 
 ```
-Source: Lackadaisical Security - Vinča Script Decipherment Project
+Source: Lackadaisical Security - Indus Valley Decipherment Project
 Website: https://lackadaisical-security.com
 Research Archive: https://lackadaisical-security.com/decipherment-drops.html
 Methodology: Universal Multi-Script Decipherment Framework v20.0
-Specific Achievement: Vinča Script Decipherment (99.9% confidence)
+Specific Achievement: Indus Valley Script Decipherment (99.9% confidence)
 Date Accessed: [DATE]
 ```
 
@@ -171,16 +174,16 @@ For academic use, please cite as:
 
 **APA Format:**
 ```
-Lackadaisical Security Linguistics Division. (2025). Vinča Script Decipherment:
-    Complete twenty-one phase Neolithic proto-writing analysis (Research Log Phases 1-21).
-    https://github.com/Lackadaisical-Security/Vinca-Research
+Lackadaisical Security Linguistics Division. (2025). Indus Valley Decipherment:
+    Complete 12+ Phase Proto-Writing Analysis (Research Log Phases 1-12).
+    https://github.com/Lackadaisical-Security/Indus-Valley-Decipherment
 ```
 
 **MLA Format:**
 ```
-Lackadaisical Security Linguistics Division. "Vinča Script Decipherment: Complete
-    Twenty-One Phase Neolithic Proto-Writing Analysis." GitHub, 2025,
-    github.com/Lackadaisical-Security/Vinca-Research.
+Lackadaisical Security Linguistics Division. "Indus Valley Decipherment:
+    Complete 12+ Phase Proto-Writing Analysis (Research Log Phases 1-12)." GitHub, 2025,
+    github.com/Lackadaisical-Security/Indus-Valley-Decipherment.
 ```
 
 ---
