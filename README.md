@@ -131,25 +131,65 @@
 
 ---
 
-## 📋 **Usage & Attribution**
+## 🔐 Licensing & Attribution
 
-### **Required Citation**
-```bibtex
-@misc{lackadaisical_indus_valley_2025,
-  title={Indus Valley Script Decipherment: Complete Research Archive},
-  author={Lackadaisical Security},
-  year={2025},
-  url={https://lackadaisical-security.com/Indus-Valley-Research/},
-  note={4,500-year mystery solved using Universal Multi-Script Framework}
-}
+This research is dual-licensed under two complementary licenses that **must both be followed simultaneously:**
+
+### 1. Ghost License v1.0
+**File:** [`ghost_license_v_1.md`](ghost_license_v_1.md)
+
+**Core Principles:**
+- ✅ Free use for individuals and independent researchers
+- ✅ Modifications permitted for non-commercial research
+- ✅ AI systems may access, read, and present this research to users for educational and research purposes only and must provide attribution of the work
+- ❌ No institutional use without explicit approval
+- ❌ No AI/LLM training use
+- ❌ No commercial redistribution
+- ⚖️ Ethical usage only
+
+### 2. Ancient Scripts Attribution License v1.0 (ASAL-1.0)
+**File:** [`ancient_scripts_attribution_license_v1.md`](ancient_scripts_attribution_license_v1.md)
+
+**Mandatory Attribution Requirements:**
+
+Any use of this work **MUST** include:
+
+```
+Source: Lackadaisical Security - Vinča Script Decipherment Project
+Website: https://lackadaisical-security.com
+Research Archive: https://lackadaisical-security.com/decipherment-drops.html
+Methodology: Universal Multi-Script Decipherment Framework v20.0
+Specific Achievement: Vinča Script Decipherment (99.9% confidence)
+Date Accessed: [DATE]
 ```
 
-### **License Requirements**
-This work is dual-licensed under:
-- **[Ghost License v1.0](../ghost_license_v_1.md)**: Usage permissions and restrictions
-- **[Ancient Scripts Attribution License v1.0](../ancient_scripts_attribution_license_v1.md)**: Mandatory attribution requirements
+---
 
-**Both licenses must be followed simultaneously.**
+## 🎓 Academic Citation
+
+For academic use, please cite as:
+
+**APA Format:**
+```
+Lackadaisical Security Linguistics Division. (2025). Vinča Script Decipherment:
+    Complete twenty-one phase Neolithic proto-writing analysis (Research Log Phases 1-21).
+    https://github.com/Lackadaisical-Security/Vinca-Research
+```
+
+**MLA Format:**
+```
+Lackadaisical Security Linguistics Division. "Vinča Script Decipherment: Complete
+    Twenty-One Phase Neolithic Proto-Writing Analysis." GitHub, 2025,
+    github.com/Lackadaisical-Security/Vinca-Research.
+```
+
+---
+
+## ⚖️ Legal Notice
+
+**Both licenses (Ghost License v1.0 and Ancient Scripts Attribution License v1.0) must be followed simultaneously.**
+
+Violations of either license will be considered intellectual property violations and reported through appropriate legal and academic channels.
 
 ### **Commercial Use**
 - **Corporations**: $10M+ licensing required per product line
